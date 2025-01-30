@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project demonstrates how to build a RESTful API using **Node.js**, **TypeScript**, and **MongoDB**. The API allows basic **CRUD (Create, Read, Update, Delete)** operations for managing student records.
+This project demonstrates how to build a RESTful API using **Node.js** and **MongoDB**. The API allows basic **CRUD (Create, Read, Update, Delete)** operations for managing student records.
 
 ## **Technologies Used**
 
