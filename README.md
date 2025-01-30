@@ -85,8 +85,6 @@ http://localhost:5000/api/v1
 
 ## **Example Requests**
 
-Record: Represents the specific data namely: student, classroom, teacher and course.
-
 ### **1. GET All Books**
 
 ```bash
